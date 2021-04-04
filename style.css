@@ -1,0 +1,84 @@
+body {
+	background-color: #f7f9ff;
+	color: rgb(255 255 255);
+	font-family: 'Roboto';
+	text-align: center;
+}
+h1 {
+	color: #254973;
+	font-size: 30px;
+	font-family: 'MS Gothic';
+	font-weight: bold;
+}
+h2 {
+	color: #254973;
+	font-size: 23px;
+	font-family: 'MS Gothic';
+	font-weight: bold;
+}
+h3 {
+	color: #254973;
+	font-size: 23px;
+	font-family: 'MS Gothic';
+	font-weight: bold;
+}
+body {
+	color: #254973;
+	font-size: 19px;
+	line-height: 1.8;
+	letter-spacing: 1px;
+}
+a {
+	text-decoration: underline;
+	color: #254973;
+}
+div {
+	background: #c8d4db;
+	padding: 20px;
+	border-radius: 30px;
+	margin: 70px;
+	box-shadow: 5px 7px 10px #254973;
+}
+a:hover {
+	color: black;
+}
+.img-circle {
+	border-radius: 30px;
+	box-shadow: 0px 0px 20px #254973;
+}
+.btn-blue {
+	background: #254973;
+	color: white;
+	padding: 15px 20px;
+	border-radius: 4px;
+}
+.list-inline {
+	list-style: none;
+	padding-left: 0px;
+}
+.list-inline li {
+	display: inline;
+	color: #254973;
+	padding: 10px;
+}
+.list-inline i {
+	font-size: 50px;
+	color: #254973;
+	padding: 0px;
+}
+i:hover {
+	color: black;
+}
+@media (max-width: 760px) {
+	.container {
+		width: 600px;
+	}
+}
+@media (max-width: 500px) {
+	.container {
+		width: 400px;
+	}
+}
+i:hover {
+	color: black;
+}
